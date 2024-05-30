@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.circle2{
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+    }
+.button{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
